@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great and wonderful success and vertues of Clark's compound spirits of scurvey-grass (both golden and plain) in curing many languishing and grievous distempers. Faithfully prepared (by his widow) according to his own directions.</title>
+            <author>Clark, Mary, fl. 1685-1700.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20392</idno><idno type="EEBO-CITATION">99888597</idno>
+  <idno type="VID">195823</idno>
+  <idno type="EEBO-PROQUEST">2264186907</idno>
+  
+            <idno type="STC">Wing C4483B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[18]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32.[64]</idno>
+            <idno type="STC">ESTC R231223</idno>
+            <idno type="PROQUEST">ocm99888597</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888597e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195823)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[18], E8:2[63])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great and wonderful success and vertues of Clark's compound spirits of scurvey-grass (both golden and plain) in curing many languishing and grievous distempers. Faithfully prepared (by his widow) according to his own directions.</title>
+                  <author>Clark, Mary, fl. 1685-1700.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Item at reel position E8:2[63] imperfect: some staining and fading.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Drugs --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, Popular --  Early works to 1800.</term>
+               <term type="topical_term">Worms, Intestinal and parasitic --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:195823:1"/>
+            <head>The Great and Wonderful Success and Vertues of CLARK's <hi>Compound SPIRITS of Scurvey-Grass (both Golden and Plain) in Curing many Languishing and Grievous Distempers.</hi>
+            </head>
+            <head type="sub">Faithfully prepared (by his Widow) according to his own Directions.</head>
+            <p>TIS now some Years since Mr. <hi>Clark</hi> first Exposed this <hi>Excellent Medicine</hi> to Sale; and (Blessed be God) it has Largely Answered the End for which it was design'd, <hi>Viz.</hi> The <hi>Health</hi> and <hi>Welfare</hi> of his Countreymen. The Admirable <hi>Vertues</hi> of these <hi>Compound Spirits,</hi> and that <hi>Ʋniversal Welcome</hi> they Meet with in the World, occasion'd many <hi>Counterfeits</hi> to be publish'd, but their <hi>Shams</hi> were quickly detected: And whereas they hoped to mend <hi>their Credits</hi> by Lessening mine, they did but present to the <hi>view of all honest Men,</hi> their <hi>own Ignorance</hi> and <hi>Malicious Folly.</hi> 'Tis a Divine Maxim, <hi>That every Tree is known by its Fruit:</hi> So the surest Way whereby to judge of the Vertues and Intrinsick Worth of <hi>Medicines,</hi> is, by observing the <hi>great Effects</hi> that are Wrought by them, and the <hi>Famous Cures</hi> they per<g ref="char:EOLhyphen"/>form. Therefore to demonstrate the singular Vertues and Efficacy of these Spirits, I here Nominated some Remarkable Cures performed by them, on the Bodies of several Persons, whose Names and Places of Abode (as an Addition to Others Printed in my former Bills) take as follows.</p>
+            <list>
+               <item>I. <hi>Nathaniel Pavey</hi> of <hi>Bredford</hi> near <hi>Coventry,</hi> by the Use only of these Spirits was perfectly Cured of a <hi>Dropsie,</hi> complicated with the <hi>Scurvey,</hi> and other <hi>Bistempers,</hi> when other Medicines had fail'd.</item>
+               <item>II. <hi>Mary Jones,</hi> near <hi>Thetford,</hi> who had not been out of her House for the space of Five years, after the taking but Two of my Bottles, went to Church.</item>
+               <item>III. <hi>Daniel Golding</hi> of <hi>Cranborough</hi> nour <hi>Aylesbury,</hi> at first taking the plain Spirit, found some Ease in that Tormenting Disease the <hi>Stone,</hi> and by the frequent Use of it afterwards, he was To<g ref="char:EOLhyphen"/>tally freed from that Troublesom Companion. Many in the same Town have been Cured of lin<g ref="char:EOLhyphen"/>gering <hi>Agues</hi> and the <hi>Toothach.</hi>
+               </item>
+               <item>IV. <hi>John Hales</hi> of <hi>Burton,</hi> within Four Miles of <hi>Nottingham,</hi> almost blind with a Defluction of Rheum, or salt Humour fallen upon his Eyes; and though other means had been tryed to no purpose, was, before he had quite taken the Sixth Bottle, perfectly Restor'd.</item>
+               <item>V. A Child of Mr. <hi>Disney</hi>'s in <hi>New-market,,</hi> being in a very deplorable Condition, with Werms, insomuch that they thought him at Deaths-door, Voided (upon taking but once of these <hi>Spirits</hi>) a Worm of a prodigious length, and continuing taking of it a We<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, his Body was clear'd of vast Numbers.</item>
+               <item>VI. <hi>Elizabeth Martin</hi> of <hi>Boughton,</hi> in the County of <hi>Kent,</hi> Widow, was taken with <hi>Lameness</hi> in her <hi>Limbs, Pains</hi> in her <hi>Hips, Weakness</hi> in her <hi>Legs,</hi> that she was forced to keep Bed 8 o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 9 Weeks. after this she was not able to go without Sticks, a good while after her Distemper was taken to be the <hi>Sciatica,</hi> Oyntments and Plaisters proper for that Distemper; but to purpose were applyed by the Advice of a Woman: After this she had a Physician, that told her she had the <hi>Scurvey,</hi> after purging and Diet-drinks, her Distemper not abating, I coming to Visit her, desired her to ask his Physicians Advice to take <hi>Spirits of Scurvey Grass,</hi> He approved of it, I Helped her to Two Bottles of both sorts, she recovered her strength unexpectedly, that she was able to go two miles, she was then Sixty years old, she is able to go to Marke<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at this time, and car<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies great Loads.</item>
+               <item>VII. Mrs. <hi>Anne Turner</hi> near <hi>Warrinton,</hi> was violently Tortur'd with the <hi>Toothach,</hi> but by holding a soonfull of my <hi>Plain Spirit</hi> in her Mouth, the pain was remov'd.</item>
+               <pb facs="tcp:195823:2"/>
+               <item> VIII. A Gentleman (whose Name I am desir'd to omit, in respect of his Quality) had his Body by an Inveterate <hi>Scurvey,</hi> over spread in manner of a <hi>Leprosie,</hi> was by taking my Spirits very speedily Gured.</item>
+               <item>IX. <hi>Richard Thomason</hi> near <hi>Burford,</hi> who was brought very low with an <hi>Asthma,</hi> (or short<g ref="char:EOLhyphen"/>ness or stoppage of Breath) making use of my <hi>Plain Spirit,</hi> it not only took away the Pain, but also gave him great Relief.</item>
+               <item>X. <hi>Edward Sympson</hi> near <hi>Glocester,</hi> was by my <hi>Golden Spirits,</hi> cased of the <hi>Stene.</hi>
+               </item>
+               <item>XI. <hi>Derothy Davis</hi> Servant to <hi>Mr. Thomas Jackson</hi> in <hi>Somersetshire,</hi> after variety of Medicines try'd upon her without Remedy, for a continual pain and Gnawing in her Guts, upon taking my <hi>Purging Spirits,</hi> brought away hundreds of small Worms, and was Intirely restor'd to her Health.</item>
+               <item>XII. <hi>James Horton</hi> Living in <hi>West-Chester,</hi> being dangerously Afflicted with the <hi>Scurvey,</hi> inso<g ref="char:EOLhyphen"/>much that he was like one infested with a <hi>Leprosie,</hi> all over spots; by the help of 2 or 3 of my Bottle (after having taken divers other Medicines) was perfectly cured, and healthful to this day.</item>
+            </list>
+            <p>Many other Illustrious Cures I could recite, would my Paper contain them; and might shew, That they <hi>daily</hi> get not only <hi>great Applause</hi> with the <hi>Vulgar,</hi> but also are held in very <hi>great Esteem</hi> by divers <hi>Eminent Physicians,</hi> whose Names (for brevity sake) There omit.</p>
+            <p>These Famous Compound Spirits of Scurvey Grass were first prepared and published by Mr. <hi>Henry Clark,</hi> about Sixteen Years ago, and though since Counterfeited by divers <hi>Ʋpstarts</hi> yet none of them ever knew the right and true Preparation. And though it hath pleased the Almighty to take to himself the said Mr. <hi>Claak,</hi> yet the said Compound Spirits continue to be truly prepared (by his Widow) at his late Dwelling-House in the <hi>Strand;</hi> which Person chiefly Managed it for several years during his Life; and to whom he Communicated the True Pre<g ref="char:EOLhyphen"/>paration, and to no other besides; And sinding his Continuance to be not long in this World it was his Earnest Entreaty and Desire, That She would Continue <hi>Preparing</hi> the said Compound Spirits of Scurvey-Grass, <hi>for the Good and Welfare of his Countreymen,</hi> that they might not be <hi>Lost</hi> or <hi>Adulterated.</hi>
+            </p>
+            <p>Therefore you may know, That the True Compound Spirits of Scurvey-Grass, (prepared by Mrs. <hi>Mary Clark,</hi> at the House Mr. <hi>Clark</hi> lived in, the Sign of the <hi>Lamb</hi> near <hi>Somerset-House</hi> in the <hi>Strand,</hi> and sold by her Correspondents) are Sealed wth her Coat of Arms, the <hi>Three Swords in Fess,</hi> to prevent Counterfeits. Price 1 s. each Bottle, with Directions. And are to be Sold by Mr. Adam Leviston Fruiterer at the Royal Exchange. Mr. Britewell at the Popes Head under the Royal Exchange. Mrs. Jackson Frui<g ref="char:EOLhyphen"/>terer by the Exchange. Mrs. Prescot Fruiterer at the Adam and Eve against the Mews. Mrs. Taylor Fruiterer in the Stocks-market. Mr. John Allen Grocer upon Ludgate-hill. Mr. <hi>Henry Sampson</hi> Strong-water-man, at the three Tobaccho-Rolls in <hi>Pickadilly.</hi> M. Lord's Coffee-house in St. Martins le Grand. mr George Ball Goldsmith in King-street, Westminster. mr. Chri. Seagood at Little Tower-hill, Distil<g ref="char:EOLhyphen"/>ler. mr. Rich. Carew at the Bunch of Grapes at St. Katherine dock. mr. Thomas Kend all powder-man at the Rose and Ball in South<g ref="char:EOLhyphen"/>wark. mrs. Anne Seal at Ratcl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff-cross. mr. Spencer at Wapping dock near Bell Alley, mr. Thomas Dring bookseller in Fleetstreet. mr. Ebenezer Tracy at the 3 Bibles on London bridge. mr. Bently bookselser in Covent-Gar<g ref="char:EOLhyphen"/>den. mr. Thomas Fabian bookseller at the Bible in St. Pauls Church yard. mr. John Law<g ref="char:EOLhyphen"/>rence bookseller at the Angel in the poultrey. mr. John Gwillim bookseller in Bishops-gate<g ref="char:EOLhyphen"/>street. mr. Henry Lord bookseller in West<g ref="char:EOLhyphen"/>minster-hall. mr. Gilbert Wallbanck booksel<g ref="char:EOLhyphen"/>ler next Greys Inn in Holbourn. mr. Joshua Gonniers bookseller near St. Andrews Church in Holbourn. Mr. Hull Stationer at Staple Inn in Holbourn. Mr. Henry Wellton Milliner in Turn-stile Alley in Holbourn. Mrs. Mary Wethers Milliner in Ludgate-street, by Black-Friers Gate. Mr. <hi>Joseph Knight</hi> bookseller in the <hi>New Exchange.</hi> And at my Houseat the Lamb near Somerset <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouse in the Strand.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
